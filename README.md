@@ -39,7 +39,7 @@ key is stored only in your browser's `localStorage`.
 ## Tech stack
 
 - React 18 + Vite
-- React Router (`HashRouter`)
+- React Router
 - Tailwind CSS (with CSS-variable theme tokens for light/dark)
 - Framer Motion
 - Recharts
